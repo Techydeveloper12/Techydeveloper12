@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Fullstack development
 - 💞️ I’m looking to collaborate on development
-- 📫 How to reach me : go to my social profiles
+- 📫 How to reach me : dheeraj4567yadav@gmail.com
 
 <!---
 Techydeveloper12/Techydeveloper12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
