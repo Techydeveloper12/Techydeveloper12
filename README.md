@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Dheeraj yadav 
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Fullstack development
-- 💞️ I’m looking to collaborate on development
+- 🌱 I’m currently running a company
+- 💞️ I’m looking for interns
 - 📫 How to reach me : dheeraj4567yadav@gmail.com
 
 <!---
